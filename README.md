@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parker
 - 👀 I’m particularly interested in robotics 🤖 and sound engineering 🎛
 - 🌱 I’m currently learning about networking, control theory applications, and 3D design
-- 💞️ I’m looking to collaborate on Lightwave, a real-time audio controlled lighting tool for WLEDs! Check it out and hit me up.
+- 💞️ I’m looking to collaborate on Lightwave, a real-time audio controlled lighting tool for ESP32 and LED strips! Check it out and hit me up.
 - 🏠 For more about me, check out www.parkerryan.work
 
 <!---
